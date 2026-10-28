@@ -1,2 +1,2 @@
 # Git Lab Demo
-Line 2: alice version
+Line 2: merged by alice and bob
